@@ -1,0 +1,40 @@
+.home-bg-color{
+    background-color: #FEEAE8;
+}
+.btn-color{
+    background-color: #ff136f;
+    color: #fff;
+}
+.price-info{
+    color: #ff136f;
+}
+img{
+    /* width: 100%; */
+}
+.shoes-box1 , .shoes-box2, .shoes-box3{
+    padding: 5px 30px;
+    border-radius: 10px;
+    color: #fff;
+   
+}
+.shoes-box1{
+    background-color:rgb(243, 145, 17);
+}
+.shoes-box2{
+    background-color: orchid;
+}
+.shoes-box3{
+    background-color: rgba(57, 57, 207, 0.801);
+}
+.shoes-box-size{
+    box-shadow: 5px 9px 13px #d3d3d0;
+    border: none;
+}
+.touch-bar{
+    background-color: rgba(216, 187, 154, 0.904);
+}
+.touch-text{
+    width: 313px;
+    margin: auto;
+    padding: 48px 0px;
+}
